@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  background: #1f2937;
+  border: 1px solid #374151;
+}
+
+.btn {
+  background: #2563eb;
+  padding: 10px;
+  border-radius: 8px;
+}
